@@ -46,6 +46,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakar12&card_width=1024&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakar12&layout=donut)
+
 <!--![Jokes Card](https://readme-jokes.vercel.app/api&card_width=1024)-->
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=sakar12&theme=radical)](https://github.com/sakar12/github-profile-trophy&card_width=1024)-->
