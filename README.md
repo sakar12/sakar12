@@ -40,6 +40,8 @@
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sakar12&theme=dark&border_radius=10&card_width=1024)](https://git.io/streak-stats)
+
+[![Sakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakar12)](https://github.com/sakar12/github-readme-stats)
 <!--
 **sakar12/sakar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
