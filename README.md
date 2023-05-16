@@ -1,5 +1,4 @@
-### Hi there 👋
-<img align="left" alt="Coding" width="400" src="https://photos.app.goo.gl/aD3BVMz4zSmwdRwQ9">
+![Header](./header.png)
 <!--
 **sakar12/sakar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
