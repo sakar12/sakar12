@@ -1,5 +1,9 @@
 ![Header](./header.png)
 
+<center>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</center>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sakar12&theme=dark&border_radius=10&card_width=1024)](https://git.io/streak-stats)
 <!--
 **sakar12/sakar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
