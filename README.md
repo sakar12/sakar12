@@ -47,7 +47,7 @@
 
 ![Sakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakar12&show_icons=true&theme=radical&card_width=1024&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakar12&card_width=1024&show_icons=true&theme=radical)](https://github.com/sakar12/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakar12&card_width=1024&show_icons=true&theme=radical&size_weight=0.5&count_weight=0.5)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakar12&layout=donut&size_weight=0.5&count_weight=0.5)
 
