@@ -51,6 +51,8 @@
    <img align="center" height="192" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakar12&card_width=400&show_icons=true&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact"/>
   
 </div>
+  
+![Snake animation](https://github.com/sakar12/sakar12/blob/output/github-contribution-grid-snake.svg)
 
 <!--|                 📝                  |                    📊               |
 |-------------------------------------|-------------------------------------|
