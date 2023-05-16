@@ -1,12 +1,5 @@
 ![Header](./newHeader.png)
 
-<div>
-  <a href="https://github.com/eagrundy">
-    <img align="center"  src="https://github-readme-stats.vercel.app/api?username=sakar12&show_icons=true&theme=radical&card_width=300&count_private=true"/>
-   <img align="center" height="192" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakar12&card_width=400&show_icons=true&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact"/>
-  
-</div>
-
 <h1 align="center">💻 My Tools, Languages & Frameworks</h1>
 <div>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -52,9 +45,16 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sakar12&theme=dark&border_radius=10&card_width=1024)](https://git.io/streak-stats)
 
-|                 📝                  |                    📊               |
+<div>
+  <a href="https://github.com/eagrundy">
+    <img align="center"  src="https://github-readme-stats.vercel.app/api?username=sakar12&show_icons=true&theme=radical&card_width=300&count_private=true"/>
+   <img align="center" height="192" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakar12&card_width=400&show_icons=true&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact"/>
+  
+</div>
+
+<!--|                 📝                  |                    📊               |
 |-------------------------------------|-------------------------------------|
-| ![Sakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakar12&show_icons=true&theme=radical&card_width=500&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakar12&card_width=500&show_icons=true&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact) |
+| ![Sakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakar12&show_icons=true&theme=radical&card_width=500&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakar12&card_width=500&show_icons=true&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact) |-->
 
 
 <!--![Jokes Card](https://readme-jokes.vercel.app/api&card_width=1024)-->
