@@ -42,6 +42,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sakar12&theme=dark&border_radius=10&card_width=1024)](https://git.io/streak-stats)
 
 ![Sakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakar12&show_icons=true&theme=radical&card_width=1024)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sakar12&theme=radical)](https://github.com/sakar12/github-profile-trophy)
 <!--
 **sakar12/sakar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
