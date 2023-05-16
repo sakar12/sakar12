@@ -43,6 +43,8 @@
 
 ![Sakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakar12&show_icons=true&theme=radical&card_width=1024)
 
+![Jokes Card](https://readme-jokes.vercel.app/api&card_width=1024)
+
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=sakar12&theme=radical)](https://github.com/sakar12/github-profile-trophy&card_width=1024)-->
 <!--
 **sakar12/sakar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
