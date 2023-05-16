@@ -1,6 +1,6 @@
 ![Header](./newHeader.png)
 
-<h1>📈 My Tech Stack</h1>
+<h1>💻 My Tech Stack</h1>
 <div>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
@@ -42,9 +42,9 @@
 </div>
 
 <h1>📈 Github Stats</h1>
-[![](http://github-readme-streak-stats.herokuapp.com?user=sakar12&theme=dark&border_radius=10&card_width=1024)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sakar12&theme=dark&border_radius=10&card_width=1024)](https://git.io/streak-stats)
 
-![](https://github-readme-stats.vercel.app/api?username=sakar12&show_icons=true&theme=radical&card_width=1024&count_private=true)
+![Sakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakar12&show_icons=true&theme=radical&card_width=1024&count_private=true)
 
 <!--!![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakar12&card_width=1024&show_icons=true&theme=radical)-->
 
