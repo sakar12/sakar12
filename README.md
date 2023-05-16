@@ -42,7 +42,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sakar12&theme=dark&border_radius=10&card_width=1024)](https://git.io/streak-stats)
 
-![Sakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakar12&show_icons=true&theme=darcula&card_width=1024)
+![Sakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakar12&show_icons=true&theme=radical&card_width=1024)
 
 <!--![Jokes Card](https://readme-jokes.vercel.app/api&card_width=1024)-->
 
