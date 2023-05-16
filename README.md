@@ -43,7 +43,7 @@
 
 <h1 align="center">📈 Github Stats</h1>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sakar12&theme=dark&border_radius=10&card_width=1024)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sakar12&theme=radical&border_radius=10&card_width=1024)](https://git.io/streak-stats)
 
 <div>
   <a href="https://github.com/eagrundy">
