@@ -44,7 +44,7 @@
 
 ![Sakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakar12&show_icons=true&theme=radical&card_width=1024)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakar12)](https://github.com/sakar12/github-readme-stats&card_width=1024)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakar12&card_width=1024&show_icons=true&theme=radical)
 
 <!--![Jokes Card](https://readme-jokes.vercel.app/api&card_width=1024)-->
 
