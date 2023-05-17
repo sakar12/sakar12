@@ -47,8 +47,8 @@
 
 <div>
   <a href="https://github.com/eagrundy">
-    <img align="center" width="420" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sakar12&show_icons=true&theme=radical&count_private=true"/>
-   <img align="center" width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sakar12&show_icons=true&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact"/>
+    <img align="center" width="430" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sakar12&show_icons=true&theme=radical&count_private=true"/>
+   <img align="center" width="380" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sakar12&show_icons=true&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact"/>
   
 </div>
   
