@@ -55,26 +55,3 @@
 ![Snake animation](https://github.com/sakar12/sakar12/blob/output/github-contribution-grid-snake.svg)
   
 ![](https://komarev.com/ghpvc/?username=sakar12&style=flat-square)
-
-<!--|                 📝                  |                    📊               |
-|-------------------------------------|-------------------------------------|
-| ![Sakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakar12&show_icons=true&theme=radical&card_width=500&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakar12&card_width=500&show_icons=true&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact) |-->
-
-
-<!--![Jokes Card](https://readme-jokes.vercel.app/api&card_width=1024)-->
-
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=sakar12&theme=radical)](https://github.com/sakar12/github-profile-trophy&card_width=1024)-->
-<!--
-**sakar12/sakar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
