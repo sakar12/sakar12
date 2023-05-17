@@ -54,4 +54,4 @@
   
 ![Snake animation](https://github.com/sakar12/sakar12/blob/output/github-contribution-grid-snake.svg)
   
-![](https://komarev.com/ghpvc/?username=sakar12&style=flat-square)
+![](https://komarev.com/ghpvc/?username=sakar12&style=for-the-badge&label=👀+Profile+Views)
