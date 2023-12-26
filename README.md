@@ -52,6 +52,6 @@
   
 </div>
   
-![Snake animation](https://github.com/sakar12/sakar12/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sakar12/sakar12/blob/output/github-contribution-grid-snake-dark.svg)
   
 ![](https://komarev.com/ghpvc/?username=sakar12&style=for-the-badge&label=👀+Profile+Views)
